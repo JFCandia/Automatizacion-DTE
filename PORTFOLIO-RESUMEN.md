@@ -170,7 +170,7 @@ Sistema de reportes multi-formato:
 ## 📞 CONTACTO
 
 **Juan Francisco Candia**
-- 📧 **Email:** juan.candia@baplica.cl
+- 📧 **Email:** juan.candia@baplicada.cl
 - 💼 **LinkedIn:** linkedin.com/in/jfcandia
 - 🐱 **GitHub:** github.com/JFCandia
 - 🏢 **Empresa:** Baplica S.A. - Área de Sistemas

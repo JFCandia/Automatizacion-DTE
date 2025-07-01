@@ -8,6 +8,8 @@
 
 ## 📋 Descripción del Proyecto
 
+Este proyecto demuestra **competencias avanzadas en QA Automation** mediante la automatización completa del sistema de login y navegación de Asistencia DT de Baplica. Desarrollado con **Playwright** y **JavaScript**, implementa técnicas profesionales de testing que cualquier empresa busca en un **QA Automation Engineer**.
+
 Sistema de automatización completo para validar el flujo de login y navegación del sistema de Asistencia DT de Baplica utilizando **Playwright** con **JavaScript/Node.js**.
 
 ### 🎯 Objetivos
@@ -20,7 +22,7 @@ Sistema de automatización completo para validar el flujo de login y navegación
 ## 🚀 Características Principales
 
 ### 🔐 Automatización de Login
-- **Email automático**: `nicolas.perez@baplicada.cl`
+- **Email automático**: `juan.candia@baplicada.cl`
 - **Manejo de contraseñas**: Variables de entorno seguras
 - **Validación multi-paso**: Email → Contraseña → Autenticación
 
@@ -167,7 +169,7 @@ TEST_PASSWORD=tu_password
 
 **Juan Francisco Candia**
 - 🏢 **Empresa:** Baplica S.A. - Área de Sistemas
-- 📧 **Email:** juan.candia@baplica.cl
+- 📧 **Email:** juan.candia@baplicada.cl
 - 💼 **LinkedIn:** [linkedin.com/in/jfcandia](https://linkedin.com/in/jfcandia)
 - 🐱 **GitHub:** [github.com/JFCandia](https://github.com/JFCandia)
 - 🌐 **Portfolio:** [jfcandia.github.io](https://jfcandia.github.io)
@@ -193,4 +195,4 @@ Este proyecto fue desarrollado como parte del trabajo en **Baplica S.A.** para a
 
 ⭐ **¿Te gustó este proyecto?** ¡Dale una estrella en GitHub y conecta conmigo en LinkedIn!
 
-**🔗 [Ver Demo en Vivo](https://github.com/JFCandia/Automatizacion-DTE)** | **📧 [Contáctame](mailto:juan.candia@baplica.cl)**
+**🔗 [Ver Demo en Vivo](https://github.com/JFCandia/Automatizacion-DTE)** | **📧 [Contáctame](mailto:juan.candia@baplicada.cl)**
