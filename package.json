@@ -1,0 +1,23 @@
+{
+  "name": "dte",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test tests/login-simple.spec.js --project=chromium --workers=1 --timeout=0 --headed",
+    "test:login": "playwright test tests/login-simple.spec.js --project=chromium --workers=1 --timeout=0 --headed",
+    "test:headed": "playwright test tests/login-simple.spec.js --project=chromium --workers=1 --timeout=0 --headed",
+    "test:debug": "playwright test tests/debug-boton-confirmar.spec.js --project=chromium --workers=1 --timeout=0 --headed --reporter=list",
+    "test:ui": "playwright test --ui",
+    "test:report": "playwright show-report",
+    "install:browsers": "playwright install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.53.1",
+    "dotenv": "^16.6.0"
+  }
+}
