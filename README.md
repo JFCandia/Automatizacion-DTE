@@ -1,5 +1,11 @@
 # 🤖 Automatización de Testing - Sistema DTE Baplica
 
+[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JFCandia/Automatizacion-DTE)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
+
 ## 📋 Descripción del Proyecto
 
 Sistema de automatización completo para validar el flujo de login y navegación del sistema de Asistencia DT de Baplica utilizando **Playwright** con **JavaScript/Node.js**.
@@ -154,3 +160,37 @@ TEST_PASSWORD=tu_password
 - La página permanecerá abierta hasta que presiones `Ctrl+C`
 - Puedes navegar manualmente por el sistema después del login
 - Las credenciales se toman del archivo `.env.local`
+
+---
+
+## 👨‍💻 Autor
+
+**Juan Francisco Candia**
+- 🏢 **Empresa:** Baplica S.A. - Área de Sistemas
+- 📧 **Email:** juan.candia@baplica.cl
+- 💼 **LinkedIn:** [linkedin.com/in/jfcandia](https://linkedin.com/in/jfcandia)
+- 🐱 **GitHub:** [github.com/JFCandia](https://github.com/JFCandia)
+- 🌐 **Portfolio:** [jfcandia.github.io](https://jfcandia.github.io)
+
+### 🚀 Habilidades Demostradas en este Proyecto
+
+- **Test Automation:** Playwright, Selenium
+- **Web Development:** JavaScript, Node.js, HTML, CSS
+- **DevOps:** Git, GitHub Actions, CI/CD
+- **Scripting:** PowerShell, Bash
+- **QA Testing:** Test Planning, Bug Reporting, Test Cases
+- **Problem Solving:** Debugging, Error Handling, Robustness Engineering
+
+---
+
+## 📄 Licencia
+
+Este proyecto fue desarrollado como parte del trabajo en **Baplica S.A.** para automatización de procesos internos.
+
+**© 2025 Juan Francisco Candia - Baplica S.A.**
+
+---
+
+⭐ **¿Te gustó este proyecto?** ¡Dale una estrella en GitHub y conecta conmigo en LinkedIn!
+
+**🔗 [Ver Demo en Vivo](https://github.com/JFCandia/Automatizacion-DTE)** | **📧 [Contáctame](mailto:juan.candia@baplica.cl)**
